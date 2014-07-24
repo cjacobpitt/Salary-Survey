@@ -1,0 +1,13 @@
+body {
+	background: #f9ebae;
+}
+
+th {
+	padding-left: 12px;
+	font-size: 20px;
+}
+
+td{
+	padding-left: 12px;
+	border: 2px solid black;
+}
